@@ -30,6 +30,7 @@ flutter:
 
   assets:
     - assets/
+    - assets/categories/
   fonts:
     - family: DM Sans
       fonts:
